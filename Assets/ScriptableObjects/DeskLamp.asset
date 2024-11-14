@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2502416e34b4c4c94a043646b7b121, type: 3}
+  m_Name: DeskLamp
+  m_EditorClassIdentifier: 
+  ItemName: DeskLamp
+  ItemImage: {fileID: 21300000, guid: d5d87c47ab7c04b4698b50dacd3004af, type: 3}
+  ItemDescription: DeskLamp
+  Item3DModel: {fileID: 698727765549836264, guid: 8d2107cfbff04854c909543ec9926bd1, type: 3}
